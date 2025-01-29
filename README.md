@@ -1,4 +1,4 @@
-# MUXATOR
+# Muxator
 
 ### What is it ?
 * It serves a port on local machine as a proxy
